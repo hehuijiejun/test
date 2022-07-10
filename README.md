@@ -7,7 +7,7 @@
   <title>Document</title>
   <style>
     body {
-      background: url('https://cdn.pixabay.com/photo/2018/08/14/13/23/ocean-3605547_1280.jpg') no-repeat;
+      background: url('https://github.com/hehuijiejun/test/blob/main/th.jpg) no-repeat;
       background-size: 100% 130%;
     }
 
